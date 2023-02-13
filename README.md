@@ -6,16 +6,29 @@ Proyecto final del bootcamp de KeepCoding y Glovo Mujeres en Tech 2022-2023. Con
 
 * **Arquitectura y validación de los datos**: 
     
-  * PostreSQL 15.1
+    * PostreSQL 15.1
     
 * **Análisis Exploratorio**:
 
     
 * **Visualización de las métricas**:
 
-  * Tableau Desktop 2022.4
+    * Tableau Desktop 2022.4
     
 * ** Pre-procesamiento y Modelado**:
+
+    * Python              3.10.10
+    * IPython             7.34.0
+    * jupyter_client      7.1.2
+    * jupyter_core        5.2.0
+    * notebook            6.4.9
+    * matplotlib          3.5.1
+    * numpy               1.23.5
+    * pandas              1.4.1
+    * pycaret             3.0.0.rc8
+    * seaborn             0.11.2
+    * session_info        1.0.0
+    * sklearn             1.1.3
     
     
 
