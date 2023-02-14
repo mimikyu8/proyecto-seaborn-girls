@@ -31,7 +31,9 @@ Proyecto final del bootcamp de KeepCoding y Glovo Mujeres en Tech 2022-2023. Con
     * PostreSQL 15.1
     
 * **Análisis Exploratorio**:
-
+   * R version 4.1.1
+   * dplyr_1.1.0
+   * ggplot2_3.4.0
     
 * **Visualización de las métricas**:
 
@@ -49,11 +51,8 @@ Proyecto final del bootcamp de KeepCoding y Glovo Mujeres en Tech 2022-2023. Con
     * pandas              1.4.1
     * pycaret             3.0.0.rc8
     * seaborn             0.11.2
-    * session_info        1.0.0
     * sklearn             1.1.3
     
-    
-
 
 ## Participantes
 
