@@ -59,5 +59,5 @@ Proyecto final del bootcamp de KeepCoding y Glovo Mujeres en Tech 2022-2023. Con
 * Cintia Guerrero [Github](https://github.com/CintiaGuerrero) [LinkedIn](https://www.linkedin.com/in/cintia-guerrero-tapia-2a6a96139/)
 * Cherry Reynoso [Github](https://github.com/CherryRey) [LinkedIn](https://www.linkedin.com/in/cherry-reynoso-974b1b246/)
 * Núria Orgaz [Github](https://github.com/mimikyu8) [LinkedIn](https://www.linkedin.com/in/nuria-orgaz-rodriguez/)
-* Paola Villalba [Github](https://github.com/Paolavillalb) 
+* Paola Villalba [Github](https://github.com/Paolavillalb) [LinkedIn](https://www.linkedin.com/in/paola-v-b470a3132/) 
 
