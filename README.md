@@ -39,7 +39,7 @@ Proyecto final del bootcamp de KeepCoding y Glovo Mujeres en Tech 2022-2023. Con
 
     * Tableau Desktop 2022.4
     
-* ** Pre-procesamiento y Modelado**:
+* **Pre-procesamiento y Modelado**:
 
     * Python              3.10.10
     * IPython             7.34.0
