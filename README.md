@@ -6,7 +6,9 @@ Proyecto final del bootcamp de KeepCoding y Glovo Mujeres en Tech 2022-2023. Con
 
 * **Arquitectura y validacion**
 
-    * 
+    * **airbnb_def1.csv:** archivo csv tras la validación de los datos
+    * **validacion_datos.sql:** script de SQL con la validación de los datos
+    
 * **Analisis Exploratorio**
 
     * **airbnb_def1.csv:** archivo csv con las columnas limpias
@@ -23,6 +25,8 @@ Proyecto final del bootcamp de KeepCoding y Glovo Mujeres en Tech 2022-2023. Con
     * **Random Forest Price Airbnb 20230210.pkl:** archivo pickle donde se guarda el modelo final
     
 * **Reporte_Data.pdf:** recoge el informe del proyecto
+
+* **presentacion.pdf:** versión pdf de la presentación del proyecto
 
 ## Tecnología usada
 
