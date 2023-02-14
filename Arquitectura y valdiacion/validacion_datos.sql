@@ -1,0 +1,2 @@
+SELECT "ID", "Host Since", "Host Response Rate", "Neighbourhood Cleansed", "Neighbourhood Group Cleansed", "City", "Zipcode", "Country", "Latitude", "Longitude", "Property Type", "Room Type", "Accommodates", "Bathrooms", "Bedrooms", "Beds", "Bed Type", "Price", "Security Deposit", "Cleaning Fee", "Number of Reviews", "Review Scores Rating", "Calculated host listings count"
+	FROM public."Seaborns";
